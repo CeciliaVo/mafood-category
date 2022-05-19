@@ -1,0 +1,8 @@
+streamlit==1.6.0
+pyecharts
+altair
+numpy
+streamlit-echarts
+
+
+
