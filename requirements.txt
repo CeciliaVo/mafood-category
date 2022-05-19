@@ -3,6 +3,7 @@ pyecharts
 altair
 numpy
 streamlit-echarts
+click==8.0.4
 
 
 
